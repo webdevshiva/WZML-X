@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-WZML-X Logo">
+</p>
+<h1 align="center">
+  VJ WZML BOT
+</h1>
+
+
+<p align="center">
     <a href="https://github.com/VJBots/WZML-X">
         <kbd>
             <img width="250" src="https://graph.org/file/639fe4239b78e5862b302.jpg" alt="WZML-X Logo">
